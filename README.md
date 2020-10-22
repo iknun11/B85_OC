@@ -19,3 +19,7 @@ CPU i5-4590
 ## 2020年10月22日14:45:30
 添加AirportBrcmFixup.kext修复睡眠唤醒掉速问题
 
+## 2020年10月22日16:41:36
+删除AirportBrcmFixup.kext
+在节能关闭网络唤醒即可解决掉速问题
+
