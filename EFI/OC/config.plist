@@ -480,7 +480,7 @@
 				<key>DefaultBackgroundColor</key>
 				<data>AAAAAA==</data>
 				<key>UIScale</key>
-				<data>AQ==</data>
+				<data>Ag==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -561,7 +561,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>1</string>
+			<string>C024144044NG2Y7A8</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>SystemMemoryStatus</key>
@@ -573,9 +573,9 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>1</string>
+			<string>C02MJ0VAFY10</string>
 			<key>SystemUUID</key>
-			<string>1</string>
+			<string>0E3814BF-9398-4C24-BD1B-21A605044B36</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
