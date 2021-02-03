@@ -606,7 +606,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C024144044NG2Y7A8</string>
+			<string>C02411501J9G2Y71H</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>ROM</key>
@@ -618,9 +618,9 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02MJ0VAFY10</string>
+			<string>C02MFEZZFY10</string>
 			<key>SystemUUID</key>
-			<string>0E3814BF-9398-4C24-BD1B-21A605044B36</string>
+			<string>921132F2-F703-4092-96A8-9D9FD1216B57</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
